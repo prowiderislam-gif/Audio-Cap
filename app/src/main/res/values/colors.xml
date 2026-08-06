@@ -1,0 +1,9 @@
+<resources>
+    <color name="matte_black">#0A0A0A</color>
+    <color name="matte_black_lighter">#161616</color>
+    <color name="wine_red">#8C0327</color>
+    <color name="wine_red_glow">#C4113F</color>
+    <color name="wine_red_dim">#4A0116</color>
+    <color name="text_primary">#F2F2F2</color>
+    <color name="text_secondary">#B0A6A8</color>
+</resources>

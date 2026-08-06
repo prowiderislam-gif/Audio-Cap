@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AudioCapture" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@color/matte_black</item>
+        <item name="colorPrimary">@color/wine_red</item>
+        <item name="colorPrimaryDark">@color/matte_black</item>
+        <item name="colorAccent">@color/wine_red_glow</item>
+        <item name="android:statusBarColor">@color/matte_black</item>
+        <item name="android:navigationBarColor">@color/matte_black</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+    </style>
+</resources>
